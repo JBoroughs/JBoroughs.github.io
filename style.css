@@ -12,14 +12,16 @@ body{
 ul{
     background-color:gray;
     margin:0px ;
-    padding:0px ;
+    padding-right: 50px;
     list-style-type: none;
     overflow: hidden;
+    
 }
 
 li{
     float:left;
-
+    padding-right: 50px;
+    
 }
 a{
     color: pink;
