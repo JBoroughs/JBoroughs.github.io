@@ -2,3 +2,25 @@ h1{
 
     color: red;
 }
+body{
+    background-color: aquamarine;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    background-color:gray;
+    margin:0px ;
+    padding:0px ;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li{
+    float:left;
+
+}
+a{
+    color: pink;
+}
