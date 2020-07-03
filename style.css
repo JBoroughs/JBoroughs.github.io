@@ -26,8 +26,8 @@ li{
 a{
     color: pink;
 }
-.row::after{
-content: "";
-clear: both;
-display: table;
+.image source{
+    margin: 0in;
+    padding-left: 50px;
+    
 }
