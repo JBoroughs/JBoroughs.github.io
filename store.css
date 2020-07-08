@@ -13,3 +13,22 @@ background-color: aqua;
 .row{
 display: flex;
 }
+.transition{
+height: 100px;
+text-align: center;
+margin-bottom: 4px;
+margin-top: 4px;
+width: 200px;
+background-color: blueviolet;
+
+}
+.container{
+background-color: chartreuse;
+width: 600px;
+
+}
+.transition:hover{
+    width: 600px;
+    color: crimson;
+    background-color: darkblue;
+}
