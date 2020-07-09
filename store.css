@@ -20,6 +20,7 @@ margin-bottom: 4px;
 margin-top: 4px;
 width: 200px;
 background-color: blueviolet;
+transition: 1s;
 
 }
 .container{
@@ -31,6 +32,8 @@ width: 600px;
     width: 600px;
     color: crimson;
     background-color: darkblue;
+    transition: 1s ;
+    
 }
 ul{
     background-color:gray;
